@@ -1,0 +1,31 @@
+.row>*{
+    padding: 0;
+}
+.col-2{
+    background-color: black;
+}
+
+.menu li{
+    color: aliceblue;
+    list-style: none;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    margin-left: 1.5rem;
+}
+
+.col-10 .item-1{
+    background-color: rgb(4, 201, 201);
+    height: 15rem;
+}
+.col-10 .item-2{
+    background-color: rgb(238, 255, 0);
+    height: 15rem;
+}
+.col-10 .item-3{
+    background-color: rgb(90, 214, 7);
+    height: 15rem;
+}
+.col-10 .item-4{
+    background-color: rgb(255, 0, 0);
+    height: 15rem;
+}
